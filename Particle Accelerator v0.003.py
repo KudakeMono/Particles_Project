@@ -1,3 +1,5 @@
+# Andri Maasing IT-21 - Particle Accelerator
+
 import pygame
 import sys
 import random
